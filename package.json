@@ -1,0 +1,20 @@
+{
+  "name": "closure-scope",
+  "version": "1.0.0",
+  "description": "Curso  de closure y scope",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenruTC/closure-scope.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenruTC/closure-scope/issues"
+  },
+  "homepage": "https://github.com/BenruTC/closure-scope#readme"
+}
